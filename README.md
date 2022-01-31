@@ -29,7 +29,7 @@ Scripting system capable of turning your computing (EC2) and database (RDS) reso
 # Developed in:
 
 [X] Shell Script
-[] Python (Em breve)
+[] Python (Coming soon)
 
 # Installation
 
